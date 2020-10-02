@@ -1,0 +1,23 @@
+{
+	"name": "farm",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/NikunjThesiya/node-farm.git"
+	},
+	"author": "Nikunj Thesiya",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/NikunjThesiya/node-farm/issues"
+	},
+	"homepage": "https://github.com/NikunjThesiya/node-farm#readme",
+	"dependencies": {
+		"nodemon": "^2.0.4",
+		"slugify": "^1.4.5"
+	}
+}
